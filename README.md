@@ -1,7 +1,7 @@
 # wifi-hacking-procedure-and-commands
 
 
-Commands for wifi Hacking:
+Commands for wifi Hacking in Kali or Parrot os:
 ================
 ! See version of Kali
 
