@@ -4,6 +4,7 @@
 Commands for wifi Hacking:
 ================
 ! See version of Kali
+
 #cat /etc/os-release
 #uname -a
 
